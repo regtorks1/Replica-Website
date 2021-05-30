@@ -1,0 +1,255 @@
+body {
+    background-color: white;
+    
+}
+header {
+    width : auto;
+    height: auto;
+    text-align:center;
+    
+}
+img {
+    max-height: 150px;
+}
+
+.links{
+    margin: 1.5%;
+    text-align: center;  
+     
+}
+
+.links a{
+    font-family: "Raleway";
+    font-size: 18px;
+    display: inline-block;
+    color:#bababa;
+    padding: 1%;
+    text-transform:uppercase;
+    letter-spacing: 2px;
+    font-style: normal;
+    line-height: 1em;
+}
+
+   .art{
+        margin: 2%;
+        text-align: center;
+        
+   }
+
+.all {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 5%;
+    text-align: center;
+}
+
+.all h2{
+    letter-spacing: 2px;
+    font-family: "Raleway";
+    font-size: 26px;
+    color:rgb(51, 47, 47);
+}
+
+.all p{
+    letter-spacing: 2px;
+    color:#bababa;
+}
+
+.all button{
+    letter-spacing: 2px;
+    background-color:rgb(236, 236, 11);
+    color: white;
+    border-radius: 300px;
+    width: 60%;
+    height: 30%;
+    border: none;
+    font-family: "Raleway";
+    font-size: 15px;
+    text-transform:uppercase;
+}
+
+.all button:hover{
+    cursor: pointer;
+    transform: translateY(4px);
+}
+
+.image1 {
+    text-align:center;
+
+}
+
+ .image1 img{
+    max-height: 150%;
+    padding: 1%;
+    
+}
+
+.essay {
+    text-align: center;
+    margin: 5%;
+}
+
+.essay h3 {
+    letter-spacing: 2px;
+    font-family: "Raleway";
+    font-size: 26px;
+    color:rgb(51, 47, 47);
+
+}
+
+.essay p{
+    letter-spacing: 2px;
+    font-family: "Raleway";
+    font-size: 18px;
+    color: #bababa;
+}
+
+.essay button{
+     letter-spacing: 2px;
+     font-family: "Raleway";
+     font-size: 15px;
+     background-color: white;
+     border: 3px solid grey;
+     width: 20%;
+     height: 100%;
+     border-radius: 3px;
+     text-transform:uppercase;
+     color:grey;
+     padding: 2%;
+
+}
+
+ .essay button:hover{
+     background-color: grey;
+     color: White;
+     cursor: pointer;
+
+}
+
+hr {
+    width: 50%;
+}
+
+.interior{
+    margin: 5%;
+    width: 80%;
+    background-color: rgb(230, 228, 228);
+    height: 120px;
+    overflow: scroll;
+    overflow-x: scroll;
+    padding: 5%;
+    position: relative;
+      
+}
+
+.scroll{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
+}
+    .interior h3{
+        letter-spacing: 2px;
+        font-family: "Raleway";
+        font-size: 20px;
+        color: rgb(51, 47, 47);
+
+    }
+    .scroll p{
+        letter-spacing: 2px;
+        font-family: "Raleway";
+        font-size: 15px;
+        color:#bababa;
+    }
+
+    .featuring{
+        margin:auto;
+        width: 100%;
+        display:block;
+        text-align:center;     
+    }
+
+    .market{
+        text-align:center
+    
+    }
+
+    .featuring img{
+        max-height:50%;
+        float: left;
+    }
+
+    .market h1{
+        letter-spacing: 2px;
+        font-family: "Raleway";
+        font-size: 20px;
+        color: rgb(51, 47, 47);
+    }
+
+    .market p{
+        letter-spacing: 2px;
+        font-family: "Raleway";
+        font-size: 20px;
+        color: rgb(51, 47, 47);
+
+    }
+
+    .market button{
+        letter-spacing: 2px;
+     font-family: "Raleway";
+     font-size: 15px;
+     background-color: white;
+     border: 3px solid grey;
+     width: 20%;
+     height: 100%;
+     border-radius: 3px;
+     text-transform:uppercase;
+     color:grey;
+     padding: 2%;
+    }
+
+    .market button:hover{
+        background-color: grey;;
+        color: white;
+        cursor: pointer;
+    }
+
+    .one{
+        margin: 20%;
+        letter-spacing: 2px;
+        font-family: "Raleway";
+        font-size: 20px;
+        color:#bababa;
+
+        
+    }
+
+
+
+
+
+
+
+    
+    
+     
+    
+
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
